@@ -1,6 +1,6 @@
 # git
 撤销此次add，且未commit[常用]
-git reset HEAD~
+git reset HEAD
 git reset HEAD filename // 撤销某个文件
 
 撤销此次commit ，保留add[常用]
